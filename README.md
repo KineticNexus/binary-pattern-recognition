@@ -1,7 +1,7 @@
 # Binary Cascade Analyzer
 
 ## Description
-The Binary Cascade Analyzer is a Python tool designed to detect and analyze patterns in binary strings. It uses a cascade approach to identify repeating sequences and can work with both randomly generated and artificially created data. This tool is particularly useful for researchers and developers working in fields such as data compression, cryptography, or signal processing.
+The Binary Cascade Analyzer is a Python tool designed to detect and analyze patterns in binary strings. It uses a cascade approach to identify repeating sequences and can work with both randomly generated and artificially created data. Note: This is unfinished, still a work in progress and it might have errores (28/07/2024), but any suggestions or errors notification, please send me an email (k i n e t i c n e x u s @ g m a i l.com)
 
 ## Features
 - Generate binary strings with customizable value ranges
@@ -23,6 +23,7 @@ Clone this repository and install the required packages:
 
 ## Usage
 Run the main script to perform analysis on random and artificial data:
+(use artificial data and hide known patterns to understand if the script is detecting them!)
 
 ```bash
 python binary_cascade_analyzer.py
